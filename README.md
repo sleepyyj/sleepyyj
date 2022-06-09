@@ -72,9 +72,8 @@
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sleepyyj&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 
-
 <!-- profile-3d-contrib -->
-<div align="center" ><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
