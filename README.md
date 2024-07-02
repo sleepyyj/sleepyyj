@@ -5,6 +5,7 @@
 </div>
 
 ## 🍞 Languages and Tools
+
 <br/>
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank">
@@ -20,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://gradle.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
@@ -32,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -76,50 +77,51 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                15448 commits       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-🌆 Daytime                34412 commits       ██████████████░░░░░░░░░░░   57.56 % 
-🌃 Evening                9411 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-🌙 Night                  514 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+🌞 Morning                15448 commits       ██████░░░░░░░░░░░░░░░░░░░   25.84 %
+🌆 Daytime                34412 commits       ██████████████░░░░░░░░░░░   57.56 %
+🌃 Evening                9411 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+🌙 Night                  514 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday                   11708 commits       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Tuesday                  11071 commits       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Wednesday                11480 commits       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Thursday                 9525 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Friday                   12758 commits       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Saturday                 1265 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Sunday                   1978 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Monday                   11708 commits       █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+Tuesday                  11071 commits       █████░░░░░░░░░░░░░░░░░░░░   18.52 %
+Wednesday                11480 commits       █████░░░░░░░░░░░░░░░░░░░░   19.20 %
+Thursday                 9525 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+Friday                   12758 commits       █████░░░░░░░░░░░░░░░░░░░░   21.34 %
+Saturday                 1265 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Sunday                   1978 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-Java                     3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.10 % 
-TypeScript               3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Docker                   2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-YAML                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+💬 Programming Languages:
+Java                     3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.10 %
+TypeScript               3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+Docker                   2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 %
+YAML                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 
-🔥 Editors: 
-VS Code                  6 hrs 41 mins       █████████████░░░░░░░░░░░░   53.55 % 
-IntelliJ IDEA            3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-IntelliJ                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+🔥 Editors:
+VS Code                  6 hrs 41 mins       █████████████░░░░░░░░░░░░   53.55 %
+IntelliJ IDEA            3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 %
+IntelliJ                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 %
 
-💻 Operating System: 
-Mac                      12 hrs 30 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      12 hrs 30 mins      █████████████████████████   100.00 %
 ```
 
+Last Updated on 02/07/2024 00:43:23 UTC
 
- Last Updated on 02/07/2024 00:43:23 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
