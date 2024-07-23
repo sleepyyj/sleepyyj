@@ -104,21 +104,17 @@ Sunday                   2084 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               32 mins             ████████████████░░░░░░░░░   63.62 % 
-JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Java                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             ████████████████████████░   94.79 % 
-IntelliJ IDEA            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/07/2024 00:43:44 UTC
+ Last Updated on 23/07/2024 00:42:41 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
