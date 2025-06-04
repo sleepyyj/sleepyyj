@@ -104,18 +104,17 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 min               █████████████████████░░░░   84.13 % 
-Gradle                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/06/2025 00:44:35 UTC
+ Last Updated on 04/06/2025 00:44:25 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
