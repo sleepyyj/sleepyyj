@@ -104,20 +104,17 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 mins              ███████████████████████░░   91.85 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/10/2025 00:37:44 UTC
+ Last Updated on 05/10/2025 00:44:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
