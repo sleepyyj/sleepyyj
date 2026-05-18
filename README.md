@@ -77,44 +77,8 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                73 commits          █████████░░░░░░░░░░░░░░░░   36.14 % 
-🌆 Daytime                84 commits          ██████████░░░░░░░░░░░░░░░   41.58 % 
-🌃 Evening                43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Tuesday                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Wednesday                51 commits          ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Thursday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Friday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 17/05/2026 01:47:44 UTC
+ Last Updated on 18/05/2026 01:57:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
