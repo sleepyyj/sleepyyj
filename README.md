@@ -77,6 +77,8 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2032%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -138,7 +140,7 @@ GPT                      2,011 lines         ███████████�
 ```
 
 
- Last Updated on 29/07/2026 01:17:43 UTC
+ Last Updated on 30/07/2026 01:10:41 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
