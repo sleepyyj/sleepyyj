@@ -106,40 +106,40 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 mins             ███████████████████░░░░░░   77.60 % 
-Markdown                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Other                    5 mins              ████████████████░░░░░░░░░   62.97 % 
+Markdown                 3 mins              █████████░░░░░░░░░░░░░░░░   37.03 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (89.55%)
+⏱ AI Coding Time: 7 mins (82.72%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,270,195 Input Tokens, 12,604 Output Tokens
+🔤 1,394,757 Input Tokens, 5,167 Output Tokens
 
-💵 $11.67 Estimated AI Cost This Week
+💵 $7.13 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,778 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 57 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/08/2026 01:14:34 UTC
+ Last Updated on 05/08/2026 01:16:51 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
