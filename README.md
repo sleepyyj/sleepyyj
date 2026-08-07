@@ -77,8 +77,6 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2040%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -125,7 +123,7 @@ Mac                      8 mins              ███████████�
 
 🔤 1,394,757 Input Tokens, 5,167 Output Tokens
 
-💵 $7.13 Estimated AI Cost This Week
+💵 $6.37 Estimated AI Cost This Week
 
 🧠 2 AI Sessions, 2 AI Prompts
 
@@ -139,7 +137,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/08/2026 01:14:12 UTC
+ Last Updated on 07/08/2026 01:56:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
