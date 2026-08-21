@@ -106,30 +106,30 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 mins             ██████████████████████░░░   88.37 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Other                    17 mins             ██████████████████████░░░   86.90 % 
+Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Codex Vscode             13 mins             ████████████████░░░░░░░░░   62.54 % 
-VS Code                  8 mins              █████████░░░░░░░░░░░░░░░░   37.46 % 
+Codex Vscode             13 mins             ██████████████████░░░░░░░   70.41 % 
+VS Code                  5 mins              ███████░░░░░░░░░░░░░░░░░░   29.59 % 
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (100.0%)
+⏱ AI Coding Time: 19 mins (100.0%)
 
 ✍️ 505 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,386,485 Input Tokens, 210,448 Output Tokens
+🔤 1,809,440 Input Tokens, 119,293 Output Tokens
 
-💵 $30.33 Estimated AI Cost This Week
+💵 $20.17 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 12 AI Prompts
+🧠 10 AI Sessions, 12 AI Prompts
 
 GPT                      505 lines           █████████████████████████   100.00 % 
 
@@ -141,7 +141,7 @@ GPT                      505 lines           ███████████�
 ```
 
 
- Last Updated on 20/08/2026 00:28:31 UTC
+ Last Updated on 21/08/2026 00:30:41 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
