@@ -106,28 +106,29 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 mins              █████████████████████████   100.00 % 
+Other                    7 mins              ████████████████████░░░░░   79.26 % 
+Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
 
 🔥 Editors: 
-VS Code                  5 mins              ████████████████░░░░░░░░░   62.72 % 
-Codex Vscode             3 mins              █████████░░░░░░░░░░░░░░░░   37.28 % 
+VS Code                  5 mins              ████████████████░░░░░░░░░   65.60 % 
+Codex Vscode             3 mins              █████████░░░░░░░░░░░░░░░░   34.40 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (100.0%)
+⏱ AI Coding Time: 8 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,016,354 Input Tokens, 73,475 Output Tokens
+🔤 1,251,153 Input Tokens, 70,353 Output Tokens
 
-💵 $11.19 Estimated AI Cost This Week
+💵 $12.83 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 7 AI Prompts
+🧠 8 AI Sessions, 7 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -139,7 +140,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/08/2026 00:28:18 UTC
+ Last Updated on 23/08/2026 00:30:50 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
