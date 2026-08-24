@@ -77,7 +77,7 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2040%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -106,41 +106,41 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 mins              ████████████████████░░░░░   79.26 % 
-Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Other                    4 mins              █████████████████░░░░░░░░   68.89 % 
+Python                   1 min               ████████░░░░░░░░░░░░░░░░░   31.11 % 
 
 🔥 Editors: 
-VS Code                  5 mins              ████████████████░░░░░░░░░   65.60 % 
-Codex Vscode             3 mins              █████████░░░░░░░░░░░░░░░░   34.40 % 
+VS Code                  3 mins              ██████████████░░░░░░░░░░░   54.97 % 
+Codex Vscode             2 mins              ███████████░░░░░░░░░░░░░░   45.03 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (100.0%)
+⏱ AI Coding Time: 5 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,251,153 Input Tokens, 70,353 Output Tokens
+🔤 1,110,542 Input Tokens, 67,461 Output Tokens
 
-💵 $12.83 Estimated AI Cost This Week
+💵 $11.60 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 7 AI Prompts
+🧠 6 AI Sessions, 5 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 25,621 characters per prompt
+📚 Verbose Prompter — average 25,124 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 00:30:50 UTC
+ Last Updated on 24/08/2026 00:29:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
