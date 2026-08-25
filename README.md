@@ -106,41 +106,41 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████░░░░░░░░   68.89 % 
-Python                   1 min               ████████░░░░░░░░░░░░░░░░░   31.11 % 
+Other                    2 mins              ██████████████░░░░░░░░░░░   56.04 % 
+Python                   1 min               ███████████░░░░░░░░░░░░░░   43.96 % 
 
 🔥 Editors: 
-VS Code                  3 mins              ██████████████░░░░░░░░░░░   54.97 % 
-Codex Vscode             2 mins              ███████████░░░░░░░░░░░░░░   45.03 % 
+Codex Vscode             2 mins              ██████████████░░░░░░░░░░░   56.16 % 
+VS Code                  1 min               ███████████░░░░░░░░░░░░░░   43.84 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (100.0%)
+⏱ AI Coding Time: 4 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,110,542 Input Tokens, 67,461 Output Tokens
+🔤 665,584 Input Tokens, 12,232 Output Tokens
 
-💵 $11.60 Estimated AI Cost This Week
+💵 $2.11 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 5 AI Prompts
+🧠 4 AI Sessions, 3 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 25,124 characters per prompt
+📚 Verbose Prompter — average 22,061 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 00:29:42 UTC
+ Last Updated on 25/08/2026 00:29:06 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
