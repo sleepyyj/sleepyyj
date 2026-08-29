@@ -106,25 +106,25 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+Python                   1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             4 mins              █████████████████████████   100.00 % 
+Codex Vscode             1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 614,955 Input Tokens, 11,218 Output Tokens
+🔤 463,517 Input Tokens, 10,065 Output Tokens
 
-💵 $4.25 Estimated AI Cost This Week
+💵 $3.16 Estimated AI Cost This Week
 
 🧠 3 AI Sessions, 0 AI Prompts
 
@@ -138,7 +138,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/08/2026 07:16:27 UTC
+ Last Updated on 29/08/2026 04:27:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
