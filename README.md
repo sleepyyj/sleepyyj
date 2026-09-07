@@ -77,7 +77,7 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -106,44 +106,44 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     30 mins             ███████████░░░░░░░░░░░░░░   45.33 % 
-Other                    27 mins             ██████████░░░░░░░░░░░░░░░   40.75 % 
-Git Config               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+JSON                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Other                    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Markdown                 24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+CSS                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 🔥 Editors: 
-Codex Vscode             34 mins             █████████████░░░░░░░░░░░░   51.49 % 
-VS Code                  32 mins             ████████████░░░░░░░░░░░░░   48.51 % 
+Codex Vscode             1 hr 44 mins        ██████████████████░░░░░░░   72.91 % 
+VS Code                  38 mins             ███████░░░░░░░░░░░░░░░░░░   27.09 % 
 
 💻 Operating System: 
-Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
+Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 23 mins (100.0%)
 
-✍️ 679 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,419 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,645,817 Input Tokens, 121,868 Output Tokens
+🔤 2,997,228 Input Tokens, 213,718 Output Tokens
 
-💵 $19.40 Estimated AI Cost This Week
+💵 $29.75 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 56 AI Prompts
+🧠 22 AI Sessions, 68 AI Prompts
 
-GPT                      679 lines           █████████████████████████   100.00 % 
+GPT                      1,436 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 11,074 characters per prompt
+📚 Verbose Prompter — average 14,666 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 01:30:07 UTC
+ Last Updated on 07/09/2026 01:28:22 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
