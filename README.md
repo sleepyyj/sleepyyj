@@ -106,43 +106,42 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.84 % 
-Markdown                 1 hr 13 mins        ████████████░░░░░░░░░░░░░   46.00 % 
-Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Other                    1 hr 16 mins        █████████████░░░░░░░░░░░░   52.94 % 
+Markdown                 58 mins             ██████████░░░░░░░░░░░░░░░   40.82 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 35 mins        ███████████████░░░░░░░░░░   59.93 % 
-VS Code                  1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   40.07 % 
+Codex Vscode             1 hr 24 mins        ███████████████░░░░░░░░░░   58.30 % 
+VS Code                  1 hr                ██████████░░░░░░░░░░░░░░░   41.70 % 
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 24 mins (100.0%)
 
 ✍️ 83 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,821,127 Input Tokens, 185,732 Output Tokens
+🔤 2,396,960 Input Tokens, 174,229 Output Tokens
 
-💵 $57.34 Estimated AI Cost This Week
+💵 $52.49 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 70 AI Prompts
+🧠 28 AI Sessions, 61 AI Prompts
 
 GPT                      83 lines            █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 23,124 characters per prompt
+📚 Verbose Prompter — average 21,758 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 02:03:43 UTC
+ Last Updated on 16/09/2026 01:54:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
