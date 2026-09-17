@@ -106,42 +106,41 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 16 mins        █████████████░░░░░░░░░░░░   52.94 % 
-Markdown                 58 mins             ██████████░░░░░░░░░░░░░░░   40.82 % 
-Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Other                    1 hr 16 mins        ██████████████████░░░░░░░   70.91 % 
+Markdown                 31 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 24 mins        ███████████████░░░░░░░░░░   58.30 % 
-VS Code                  1 hr                ██████████░░░░░░░░░░░░░░░   41.70 % 
+Codex Vscode             58 mins             ██████████████░░░░░░░░░░░   54.79 % 
+VS Code                  48 mins             ███████████░░░░░░░░░░░░░░   45.21 % 
 
 💻 Operating System: 
-Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (100.0%)
+⏱ AI Coding Time: 1 hr 47 mins (100.0%)
 
 ✍️ 83 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,396,960 Input Tokens, 174,229 Output Tokens
+🔤 1,471,354 Input Tokens, 137,630 Output Tokens
 
-💵 $52.49 Estimated AI Cost This Week
+💵 $38.35 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 61 AI Prompts
+🧠 18 AI Sessions, 44 AI Prompts
 
 GPT                      83 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 21,758 characters per prompt
+📚 Verbose Prompter — average 13,712 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 01:54:42 UTC
+ Last Updated on 17/09/2026 01:58:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
