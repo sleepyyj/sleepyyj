@@ -106,23 +106,42 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 24 mins        ███████████████████░░░░░░   77.16 % 
+JavaScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 49 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 49 mins (100.0%)
+
+✍️ 896 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,650,205 Input Tokens, 156,662 Output Tokens
+
+💵 $39.44 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 12 AI Prompts
+
+GPT                      897 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 745 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 02:00:21 UTC
+ Last Updated on 24/09/2026 01:49:11 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
