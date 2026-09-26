@@ -77,7 +77,7 @@
 <div align="center" ><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/profile-3d-contrib/profile-season.svg" width="100%"/></div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2041%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -106,41 +106,41 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 36 mins        ██████████████████████░░░   88.12 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Markdown                 1 hr 34 mins        ██████████████████████░░░   87.95 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 49 mins        █████████████████████████   100.00 % 
+Codex Vscode             1 hr 47 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 49 mins (100.0%)
+⏱ AI Coding Time: 1 hr 47 mins (100.0%)
 
-✍️ 702 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 536 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,452,104 Input Tokens, 167,923 Output Tokens
+🔤 2,142,667 Input Tokens, 165,723 Output Tokens
 
-💵 $40.94 Estimated AI Cost This Week
+💵 $40.57 Estimated AI Cost This Week
 
 🧠 11 AI Sessions, 13 AI Prompts
 
-GPT                      703 lines           █████████████████████████   100.00 % 
+GPT                      537 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 898 characters per prompt
+📄 Detailed Prompter — average 1,107 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 02:05:50 UTC
+ Last Updated on 26/09/2026 02:11:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
