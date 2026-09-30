@@ -106,41 +106,41 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 59 mins             █████████████████████░░░░   82.03 % 
-JSON                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Markdown                 49 mins             █████████████████████░░░░   84.59 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 12 mins        █████████████████████████   100.00 % 
+Codex Vscode             58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (100.0%)
+⏱ AI Coding Time: 58 mins (100.0%)
 
 ✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,468,863 Input Tokens, 115,294 Output Tokens
+🔤 1,273,108 Input Tokens, 94,194 Output Tokens
 
-💵 $38.99 Estimated AI Cost This Week
+💵 $31.55 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 7 AI Prompts
+🧠 6 AI Sessions, 6 AI Prompts
 
 GPT                      2 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,003 characters per prompt
+📚 Verbose Prompter — average 1,882 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 02:55:31 UTC
+ Last Updated on 30/09/2026 02:36:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
