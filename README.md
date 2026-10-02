@@ -106,39 +106,42 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 47 mins             █████████████████████████   100.00 % 
+JSON                     51 mins             █████████████░░░░░░░░░░░░   53.95 % 
+Markdown                 43 mins             ████████████░░░░░░░░░░░░░   46.05 % 
 
 🔥 Editors: 
-Codex Vscode             47 mins             █████████████████████████   100.00 % 
+Codex Vscode             1 hr 34 mins        █████████████████████████   98.91 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (100.0%)
+⏱ AI Coding Time: 1 hr 35 mins (100.0%)
 
-✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,057,730 Input Tokens, 75,625 Output Tokens
+🔤 1,663,396 Input Tokens, 97,899 Output Tokens
 
-💵 $26.24 Estimated AI Cost This Week
+💵 $48.09 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 7 AI Sessions, 10 AI Prompts
 
-GPT                      2 lines             █████████████████████████   100.00 % 
+GPT                      3 lines             █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,123 characters per prompt
+📄 Detailed Prompter — average 892 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 02:40:22 UTC
+ Last Updated on 02/10/2026 02:44:48 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
