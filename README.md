@@ -106,42 +106,42 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     51 mins             █████████████░░░░░░░░░░░░   53.95 % 
-Markdown                 43 mins             ████████████░░░░░░░░░░░░░   46.05 % 
+JSON                     51 mins             ███████████████░░░░░░░░░░   60.74 % 
+Markdown                 33 mins             ██████████░░░░░░░░░░░░░░░   39.26 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 34 mins        █████████████████████████   98.91 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Codex Vscode             1 hr 23 mins        █████████████████████████   98.77 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (100.0%)
+⏱ AI Coding Time: 1 hr 24 mins (100.0%)
 
 ✍️ 3 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,663,396 Input Tokens, 97,899 Output Tokens
+🔤 1,492,748 Input Tokens, 74,222 Output Tokens
 
-💵 $48.09 Estimated AI Cost This Week
+💵 $42.99 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 10 AI Prompts
+🧠 6 AI Sessions, 9 AI Prompts
 
 GPT                      3 lines             █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 892 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 688 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/10/2026 02:44:48 UTC
+ Last Updated on 03/10/2026 02:31:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
