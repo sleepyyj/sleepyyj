@@ -106,42 +106,41 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     51 mins             █████████████████████░░░░   85.26 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+JSON                     48 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             59 mins             █████████████████████████   98.27 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Codex Vscode             47 mins             ████████████████████████░   97.83 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (100.0%)
+⏱ AI Coding Time: 48 mins (100.0%)
 
-✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 737,163 Input Tokens, 45,140 Output Tokens
+🔤 557,871 Input Tokens, 24,886 Output Tokens
 
-💵 $31.13 Estimated AI Cost This Week
+💵 $25.25 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 7 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
-GPT                      1 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 451 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 71 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 03:01:40 UTC
+ Last Updated on 05/10/2026 02:35:23 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
