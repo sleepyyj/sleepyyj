@@ -106,41 +106,39 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     48 mins             █████████████████████████   100.00 % 
+JSON                     14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             47 mins             ████████████████████████░   97.83 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Codex Vscode             14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (100.0%)
+⏱ AI Coding Time: 14 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 557,871 Input Tokens, 24,886 Output Tokens
+🔤 244,529 Input Tokens, 12,239 Output Tokens
 
-💵 $25.25 Estimated AI Cost This Week
+💵 $7.46 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 71 characters per prompt
+📝 Concise Prompter — average 132 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 02:35:23 UTC
+ Last Updated on 06/10/2026 03:29:09 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="https://raw.githubusercontent.com/sleepyyj/sleepyyj/main/image/sea.png" /></div>
